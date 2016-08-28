@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;    
+}
+
+.tableDiv {
+    margin: 20px auto; 
+    height: 50em;
+    overflow-y: auto;    
+}
+
+#jsonTable {
+    width:  100%;
+    border-collapse: collapse;
+    padding = 5px;    
+}
+
+th {
+    font-weight : bold;
+    border: 2px solid black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
